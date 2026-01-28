@@ -1,21 +1,253 @@
-Отметка времени,I am from / Я из,"I struggle to focus on one task without distraction.  /  Мне трудно сосредоточиться на одной задаче, не отвлекаясь.  ","While working, I notice physical tension (neck, shoulders, jaw). /  Во время работы я ощущаю физическое напряжение (шея, плечи, челюсть).  ",I feel mentally exhausted at the end of my workday. /  В конце рабочего дня я чувствую умственное истощение.   ,"Even when tired, I find it hard to stop working. /  Даже чувствуя усталость, мне сложно остановить работу.   ",Breaks do not noticeably restore my energy. /  Перерывы не дают заметного восстановления энергии.  ,"Overall, my current work stress level is: /  В целом мой текущий уровень рабочего стресса:  "
-22.01.2026 11:48:42,Asia / Азия,Slightly / Немного,Strongly / Сильно,Not at all / Совсем нет,Moderately / Умеренно,Not at all / Совсем нет,Moderate / Умеренный
-22.01.2026 11:49:18,Asia / Азия,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderate / Умеренный
-22.01.2026 11:49:58,Asia / Азия,Moderately / Умеренно,Strongly / Сильно,Strongly / Сильно,Slightly / Немного,Not at all / Совсем нет,High / Высокий
-22.01.2026 11:51:10,Asia / Азия,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Not at all / Совсем нет,Moderate / Умеренный
-22.01.2026 11:51:29,Asia / Азия,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Slightly / Немного,Moderate / Умеренный
-22.01.2026 11:51:38,Asia / Азия,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
-22.01.2026 11:52:39,Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Slightly / Немного,Moderate / Умеренный
-22.01.2026 11:52:47,Asia / Азия,Strongly / Сильно,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Strongly / Сильно,High / Высокий
-22.01.2026 11:53:07,Asia / Азия,Not at all / Совсем нет,Slightly / Немного,Not at all / Совсем нет,Not at all / Совсем нет,Moderately / Умеренно,Moderate / Умеренный
-22.01.2026 11:53:37,Asia / Азия,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Moderate / Умеренный
-22.01.2026 11:53:48,Asia / Азия,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Not at all / Совсем нет,Moderate / Умеренный
-22.01.2026 11:53:59,Asia / Азия,Extremely / Очень сильно,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Moderate / Умеренный
-22.01.2026 11:54:05,Asia / Азия,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Moderate / Умеренный
-22.01.2026 11:54:17,Asia / Азия,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Strongly / Сильно,Slightly / Немного,Low / Низкий
-22.01.2026 11:54:38,Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Moderately / Умеренно,Not at all / Совсем нет,Not at all / Совсем нет,Moderate / Умеренный
-22.01.2026 11:55:57,Asia / Азия,Moderately / Умеренно,Slightly / Немного,Strongly / Сильно,Moderately / Умеренно,Extremely / Очень сильно,Critical / Критический
-22.01.2026 11:56:16,Asia / Азия,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Strongly / Сильно,Strongly / Сильно,Moderate / Умеренный
-22.01.2026 11:57:19,Asia / Азия,Moderately / Умеренно,Extremely / Очень сильно,Extremely / Очень сильно,Strongly / Сильно,Strongly / Сильно,Critical / Критический
-22.01.2026 11:57:59,Asia / Азия,Extremely / Очень сильно,Moderately / Умеренно,Strongly / Сильно,Not at all / Совсем нет,Strongly / Сильно,Moderate / Умеренный
-22.01.2026 11:59:56,Asia / Азия,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Slightly / Немного,Strongly / Сильно,Moderate / Умеренный
+I am from / Я из,"I struggle to focus on one task without distraction.  /  Мне трудно сосредоточиться на одной задаче, не отвлекаясь.  ","While working, I notice physical tension (neck, shoulders, jaw). /  Во время работы я ощущаю физическое напряжение (шея, плечи, челюсть).  ",I feel mentally exhausted at the end of my workday. /  В конце рабочего дня я чувствую умственное истощение.   ,"Even when tired, I find it hard to stop working. /  Даже чувствуя усталость, мне сложно остановить работу.   ",Breaks do not noticeably restore my energy. /  Перерывы не дают заметного восстановления энергии.  ,"Overall, my current work stress level is: /  В целом мой текущий уровень рабочего стресса:  "
+Asia / Азия,Slightly / Немного,Strongly / Сильно,Not at all / Совсем нет,Moderately / Умеренно,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Strongly / Сильно,Strongly / Сильно,Slightly / Немного,Not at all / Совсем нет,High / Высокий
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Strongly / Сильно,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Strongly / Сильно,High / Высокий
+Asia / Азия,Not at all / Совсем нет,Slightly / Немного,Not at all / Совсем нет,Not at all / Совсем нет,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Extremely / Очень сильно,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Strongly / Сильно,Slightly / Немного,Low / Низкий
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Moderately / Умеренно,Not at all / Совсем нет,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Strongly / Сильно,Moderately / Умеренно,Extremely / Очень сильно,Critical / Критический
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Strongly / Сильно,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Extremely / Очень сильно,Extremely / Очень сильно,Strongly / Сильно,Strongly / Сильно,Critical / Критический
+Asia / Азия,Extremely / Очень сильно,Moderately / Умеренно,Strongly / Сильно,Not at all / Совсем нет,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Slightly / Немного,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,High / Высокий
+Europe / Европа,Strongly / Сильно,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Slightly / Немного,Moderately / Умеренно,Not at all / Совсем нет,Low / Низкий
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Low / Низкий
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Slightly / Немного,Not at all / Совсем нет,Not at all / Совсем нет,Moderate / Умеренный
+North America / Северная Америка,Moderately / Умеренно,Moderately / Умеренно,Strongly / Сильно,Not at all / Совсем нет,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Slightly / Немного,Strongly / Сильно,Not at all / Совсем нет,Slightly / Немного,High / Высокий
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Strongly / Сильно,Slightly / Немного,High / Высокий
+Asia / Азия,Slightly / Немного,Slightly / Немного,Slightly / Немного,Slightly / Немного,Slightly / Немного,High / Высокий
+Asia / Азия,Slightly / Немного,Strongly / Сильно,Moderately / Умеренно,Strongly / Сильно,Extremely / Очень сильно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Strongly / Сильно,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,High / Высокий
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Slightly / Немного,Not at all / Совсем нет,Not at all / Совсем нет,Low / Низкий
+Asia / Азия,Moderately / Умеренно,Moderately / Умеренно,Extremely / Очень сильно,Moderately / Умеренно,Moderately / Умеренно,High / Высокий
+Asia / Азия,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Low / Низкий
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Not at all / Совсем нет,Not at all / Совсем нет,Moderate / Умеренный
+North America / Северная Америка,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Strongly / Сильно,Not at all / Совсем нет,Strongly / Сильно,Not at all / Совсем нет,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Strongly / Сильно,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Not at all / Совсем нет,Moderately / Умеренно,Slightly / Немного,Low / Низкий
+Asia / Азия,Strongly / Сильно,Strongly / Сильно,Slightly / Немного,Slightly / Немного,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Strongly / Сильно,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Strongly / Сильно,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,High / Высокий
+Asia / Азия,Slightly / Немного,Extremely / Очень сильно,Slightly / Немного,Strongly / Сильно,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Slightly / Немного,High / Высокий
+Asia / Азия,Strongly / Сильно,Extremely / Очень сильно,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,High / Высокий
+Asia / Азия,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Strongly / Сильно,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,High / Высокий
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Slightly / Немного,Extremely / Очень сильно,Slightly / Немного,High / Высокий
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Not at all / Совсем нет,Not at all / Совсем нет,Low / Низкий
+Asia / Азия,Slightly / Немного,Slightly / Немного,Slightly / Немного,Slightly / Немного,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Strongly / Сильно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,High / Высокий
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Low / Низкий
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Europe / Европа,Slightly / Немного,Slightly / Немного,Slightly / Немного,Slightly / Немного,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Not at all / Совсем нет,Strongly / Сильно,Slightly / Немного,Moderate / Умеренный
+Africa / Африка,Slightly / Немного,Slightly / Немного,Slightly / Немного,Strongly / Сильно,Slightly / Немного,Low / Низкий
+Asia / Азия,Strongly / Сильно,Extremely / Очень сильно,Strongly / Сильно,Strongly / Сильно,Slightly / Немного,High / Высокий
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Strongly / Сильно,Not at all / Совсем нет,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Not at all / Совсем нет,High / Высокий
+Asia / Азия,Slightly / Немного,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Not at all / Совсем нет,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Extremely / Очень сильно,Strongly / Сильно,Extremely / Очень сильно,Moderately / Умеренно,Strongly / Сильно,High / Высокий
+Asia / Азия,Strongly / Сильно,Slightly / Немного,Moderately / Умеренно,Not at all / Совсем нет,Slightly / Немного,Moderate / Умеренный
+Africa / Африка,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Not at all / Совсем нет,Moderately / Умеренно,Moderate / Умеренный
+Europe / Европа,Not at all / Совсем нет,Moderately / Умеренно,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Extremely / Очень сильно,Strongly / Сильно,Moderately / Умеренно,Strongly / Сильно,Strongly / Сильно,Low / Низкий
+Asia / Азия,Moderately / Умеренно,Not at all / Совсем нет,Moderately / Умеренно,Not at all / Совсем нет,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Strongly / Сильно,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Strongly / Сильно,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Slightly / Немного,Slightly / Немного,Strongly / Сильно,Slightly / Немного,Low / Низкий
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Low / Низкий
+Asia / Азия,Strongly / Сильно,Moderately / Умеренно,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,High / Высокий
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Moderately / Умеренно,Not at all / Совсем нет,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Not at all / Совсем нет,Not at all / Совсем нет,Moderate / Умеренный
+Europe / Европа,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,High / Высокий
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Slightly / Немного,Moderately / Умеренно,Strongly / Сильно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Strongly / Сильно,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Moderately / Умеренно,Strongly / Сильно,Strongly / Сильно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Low / Низкий
+Europe / Европа,Strongly / Сильно,Not at all / Совсем нет,Slightly / Немного,Not at all / Совсем нет,Not at all / Совсем нет,Low / Низкий
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Strongly / Сильно,Slightly / Немного,Moderately / Умеренно,Not at all / Совсем нет,High / Высокий
+Asia / Азия,Moderately / Умеренно,Strongly / Сильно,Slightly / Немного,Not at all / Совсем нет,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Strongly / Сильно,Extremely / Очень сильно,Extremely / Очень сильно,Slightly / Немного,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Not at all / Совсем нет,Strongly / Сильно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Strongly / Сильно,Moderately / Умеренно,Extremely / Очень сильно,Slightly / Немного,Low / Низкий
+Asia / Азия,Slightly / Немного,Slightly / Немного,Slightly / Немного,Not at all / Совсем нет,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,,Strongly / Сильно,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Not at all / Совсем нет,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,High / Высокий
+Asia / Азия,Extremely / Очень сильно,Moderately / Умеренно,Extremely / Очень сильно,Slightly / Немного,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Strongly / Сильно,Strongly / Сильно,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Extremely / Очень сильно,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Slightly / Немного,Moderately / Умеренно,Not at all / Совсем нет,Moderately / Умеренно,Moderate / Умеренный
+Africa / Африка,Not at all / Совсем нет,Strongly / Сильно,Slightly / Немного,Strongly / Сильно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Slightly / Немного,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Critical / Критический
+Europe / Европа,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Critical / Критический
+Europe / Европа,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Critical / Критический
+Europe / Европа,Extremely / Очень сильно,Strongly / Сильно,Strongly / Сильно,Extremely / Очень сильно,Extremely / Очень сильно,High / Высокий
+Europe / Европа,Strongly / Сильно,Extremely / Очень сильно,Extremely / Очень сильно,Strongly / Сильно,Extremely / Очень сильно,High / Высокий
+Europe / Европа,Extremely / Очень сильно,Strongly / Сильно,Extremely / Очень сильно,Extremely / Очень сильно,Strongly / Сильно,Critical / Критический
+Asia / Азия,Strongly / Сильно,Slightly / Немного,Extremely / Очень сильно,Not at all / Совсем нет,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Extremely / Очень сильно,Slightly / Немного,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Not at all / Совсем нет,Strongly / Сильно,Extremely / Очень сильно,Low / Низкий
+Europe / Европа,Moderately / Умеренно,Not at all / Совсем нет,Moderately / Умеренно,Not at all / Совсем нет,Not at all / Совсем нет,High / Высокий
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Extremely / Очень сильно,Not at all / Совсем нет,Strongly / Сильно,Moderate / Умеренный
+Europe / Европа,Slightly / Немного,Moderately / Умеренно,Strongly / Сильно,Strongly / Сильно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Strongly / Сильно,Extremely / Очень сильно,Extremely / Очень сильно,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Slightly / Немного,Not at all / Совсем нет,Not at all / Совсем нет,Strongly / Сильно,Low / Низкий
+Asia / Азия,Strongly / Сильно,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Extremely / Очень сильно,Strongly / Сильно,Slightly / Немного,Strongly / Сильно,Moderately / Умеренно,High / Высокий
+Asia / Азия,Moderately / Умеренно,Moderately / Умеренно,Extremely / Очень сильно,Moderately / Умеренно,Extremely / Очень сильно,High / Высокий
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Slightly / Немного,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Moderately / Умеренно,Strongly / Сильно,Slightly / Немного,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Strongly / Сильно,Moderately / Умеренно,Strongly / Сильно,Slightly / Немного,High / Высокий
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Low / Низкий
+Asia / Азия,Strongly / Сильно,Moderately / Умеренно,Extremely / Очень сильно,Slightly / Немного,Extremely / Очень сильно,High / Высокий
+Asia / Азия,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Strongly / Сильно,Not at all / Совсем нет,Slightly / Немного,Not at all / Совсем нет,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Strongly / Сильно,Extremely / Очень сильно,Moderately / Умеренно,Strongly / Сильно,High / Высокий
+Asia / Азия,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Not at all / Совсем нет,Moderately / Умеренно,Low / Низкий
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Low / Низкий
+Asia / Азия,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Not at all / Совсем нет,Moderately / Умеренно,Low / Низкий
+Asia / Азия,Strongly / Сильно,Not at all / Совсем нет,Slightly / Немного,Not at all / Совсем нет,Strongly / Сильно,Low / Низкий
+Asia / Азия,Slightly / Немного,Slightly / Немного,Slightly / Немного,Not at all / Совсем нет,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Low / Низкий
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Low / Низкий
+Asia / Азия,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Strongly / Сильно,Slightly / Немного,Low / Низкий
+Asia / Азия,Slightly / Немного,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Not at all / Совсем нет,Low / Низкий
+Asia / Азия,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Not at all / Совсем нет,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Extremely / Очень сильно,Not at all / Совсем нет,Low / Низкий
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,High / Высокий
+Europe / Европа,Moderately / Умеренно,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Low / Низкий
+Asia / Азия,Extremely / Очень сильно,Moderately / Умеренно,Strongly / Сильно,Slightly / Немного,Extremely / Очень сильно,High / Высокий
+Asia / Азия,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Not at all / Совсем нет,Moderately / Умеренно,Low / Низкий
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Extremely / Очень сильно,Moderately / Умеренно,Extremely / Очень сильно,Slightly / Немного,Moderately / Умеренно,Critical / Критический
+Asia / Азия,Extremely / Очень сильно,Not at all / Совсем нет,Extremely / Очень сильно,Moderately / Умеренно,Extremely / Очень сильно,Critical / Критический
+South America / Южная Америка,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Low / Низкий
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Strongly / Сильно,Slightly / Немного,Strongly / Сильно,Strongly / Сильно,Slightly / Немного,High / Высокий
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Moderately / Умеренно,Strongly / Сильно,Strongly / Сильно,High / Высокий
+Asia / Азия,Not at all / Совсем нет,Strongly / Сильно,Strongly / Сильно,Moderately / Умеренно,Extremely / Очень сильно,Moderate / Умеренный
+Asia / Азия,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Strongly / Сильно,Slightly / Немного,High / Высокий
+Asia / Азия,Extremely / Очень сильно,Strongly / Сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Critical / Критический
+Asia / Азия,Slightly / Немного,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Low / Низкий
+Asia / Азия,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Extremely / Очень сильно,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Slightly / Немного,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Low / Низкий
+Asia / Азия,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Low / Низкий
+Asia / Азия,Extremely / Очень сильно,Moderately / Умеренно,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Not at all / Совсем нет,Low / Низкий
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Strongly / Сильно,High / Высокий
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Strongly / Сильно,High / Высокий
+Asia / Азия,Strongly / Сильно,Slightly / Немного,Extremely / Очень сильно,Moderately / Умеренно,Moderately / Умеренно,High / Высокий
+Europe / Европа,Moderately / Умеренно,Moderately / Умеренно,Strongly / Сильно,Strongly / Сильно,Extremely / Очень сильно,Moderate / Умеренный
+Europe / Европа,Slightly / Немного,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Europe / Европа,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Strongly / Сильно,High / Высокий
+Europe / Европа,Slightly / Немного,Not at all / Совсем нет,Not at all / Совсем нет,Moderately / Умеренно,Not at all / Совсем нет,Low / Низкий
+Europe / Европа,Not at all / Совсем нет,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Slightly / Немного,Moderate / Умеренный
+North America / Северная Америка,Strongly / Сильно,Moderately / Умеренно,Extremely / Очень сильно,Strongly / Сильно,Strongly / Сильно,High / Высокий
+Asia / Азия,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Strongly / Сильно,Strongly / Сильно,High / Высокий
+Asia / Азия,Strongly / Сильно,Slightly / Немного,Strongly / Сильно,,Not at all / Совсем нет,High / Высокий
+Asia / Азия,Not at all / Совсем нет,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Slightly / Немного,Slightly / Немного,Low / Низкий
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Slightly / Немного,Not at all / Совсем нет,Low / Низкий
+Asia / Азия,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Low / Низкий
+Asia / Азия,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Strongly / Сильно,High / Высокий
+Asia / Азия,Slightly / Немного,Strongly / Сильно,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Strongly / Сильно,Moderately / Умеренно,High / Высокий
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Slightly / Немного,Extremely / Очень сильно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Moderately / Умеренно,Not at all / Совсем нет,Extremely / Очень сильно,Moderate / Умеренный
+Asia / Азия,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,High / Высокий
+Asia / Азия,Slightly / Немного,Slightly / Немного,Slightly / Немного,Slightly / Немного,Not at all / Совсем нет,Low / Низкий
+Asia / Азия,Slightly / Немного,Moderately / Умеренно,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Moderate / Умеренный
+Europe / Европа,Slightly / Немного,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Low / Низкий
+Europe / Европа,Not at all / Совсем нет,Moderately / Умеренно,Moderately / Умеренно,Not at all / Совсем нет,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Moderately / Умеренно,Moderately / Умеренно,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Not at all / Совсем нет,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Moderate / Умеренный
+Europe / Европа,Slightly / Немного,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Moderately / Умеренно,High / Высокий
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Strongly / Сильно,Moderately / Умеренно,Strongly / Сильно,High / Высокий
+Europe / Европа,Extremely / Очень сильно,Strongly / Сильно,Extremely / Очень сильно,Strongly / Сильно,Extremely / Очень сильно,High / Высокий
+Europe / Европа,Not at all / Совсем нет,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Low / Низкий
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Moderately / Умеренно,Moderately / Умеренно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Not at all / Совсем нет,Moderately / Умеренно,Low / Низкий
+Asia / Азия,Slightly / Немного,Slightly / Немного,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Strongly / Сильно,High / Высокий
+Asia / Азия,Moderately / Умеренно,Strongly / Сильно,Slightly / Немного,Slightly / Немного,Extremely / Очень сильно,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Slightly / Немного,Slightly / Немного,Slightly / Немного,Not at all / Совсем нет,High / Высокий
+Asia / Азия,Moderately / Умеренно,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Extremely / Очень сильно,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Slightly / Немного,Strongly / Сильно,Slightly / Немного,Low / Низкий
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Slightly / Немного,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Moderately / Умеренно,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Moderately / Умеренно,Strongly / Сильно,Moderately / Умеренно,Strongly / Сильно,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Not at all / Совсем нет,Not at all / Совсем нет,Slightly / Немного,Not at all / Совсем нет,Slightly / Немного,Low / Низкий
+Asia / Азия,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,High / Высокий
+Europe / Европа,Extremely / Очень сильно,Extremely / Очень сильно,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Critical / Критический
+North America / Северная Америка,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,High / Высокий
+Europe / Европа,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Critical / Критический
+Asia / Азия,Strongly / Сильно,Strongly / Сильно,Extremely / Очень сильно,Strongly / Сильно,Strongly / Сильно,High / Высокий
+Europe / Европа,Extremely / Очень сильно,Strongly / Сильно,Strongly / Сильно,Moderately / Умеренно,Extremely / Очень сильно,Critical / Критический
+Europe / Европа,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Critical / Критический
+Europe / Европа,Strongly / Сильно,Strongly / Сильно,Extremely / Очень сильно,Strongly / Сильно,Extremely / Очень сильно,High / Высокий
+Europe / Европа,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Critical / Критический
+Asia / Азия,Strongly / Сильно,Extremely / Очень сильно,Strongly / Сильно,Extremely / Очень сильно,Strongly / Сильно,High / Высокий
+North America / Северная Америка,Strongly / Сильно,Moderately / Умеренно,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Critical / Критический
+North America / Северная Америка,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Critical / Критический
+North America / Северная Америка,Strongly / Сильно,Moderately / Умеренно,Moderately / Умеренно,Slightly / Немного,Strongly / Сильно,Moderate / Умеренный
+Europe / Европа,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Critical / Критический
+Europe / Европа,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,High / Высокий
+Europe / Европа,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Critical / Критический
+Europe / Европа,Strongly / Сильно,Extremely / Очень сильно,Extremely / Очень сильно,Moderately / Умеренно,Extremely / Очень сильно,High / Высокий
+Europe / Европа,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Critical / Критический
+Europe / Европа,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Critical / Критический
+North America / Северная Америка,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Critical / Критический
+Asia / Азия,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,High / Высокий
+Asia / Азия,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Extremely / Очень сильно,Critical / Критический
+Asia / Азия,Strongly / Сильно,Extremely / Очень сильно,Moderately / Умеренно,Moderately / Умеренно,Strongly / Сильно,High / Высокий
+Asia / Азия,Strongly / Сильно,Strongly / Сильно,Extremely / Очень сильно,Extremely / Очень сильно,Strongly / Сильно,Critical / Критический
+North America / Северная Америка,Strongly / Сильно,Strongly / Сильно,Extremely / Очень сильно,Moderately / Умеренно,Not at all / Совсем нет,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Strongly / Сильно,Strongly / Сильно,Extremely / Очень сильно,Moderately / Умеренно,High / Высокий
+Europe / Европа,Strongly / Сильно,Strongly / Сильно,Extremely / Очень сильно,Moderately / Умеренно,Slightly / Немного,High / Высокий
+Europe / Европа,Moderately / Умеренно,Strongly / Сильно,Extremely / Очень сильно,Strongly / Сильно,Moderately / Умеренно,High / Высокий
+"Oceania, Australia / Океания, Австралия",Moderately / Умеренно,Strongly / Сильно,Strongly / Сильно,Extremely / Очень сильно,Strongly / Сильно,Critical / Критический
+Asia / Азия,Moderately / Умеренно,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,Strongly / Сильно,High / Высокий
+Asia / Азия,Moderately / Умеренно,Slightly / Немного,Strongly / Сильно,Slightly / Немного,Strongly / Сильно,Moderate / Умеренный
+Asia / Азия,Slightly / Немного,Slightly / Немного,Moderately / Умеренно,Slightly / Немного,Slightly / Немного,Low / Низкий
