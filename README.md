@@ -14,6 +14,13 @@ The project combines Python-based statistical analysis (Google Colab) with an in
 - Correlation analysis performed in Python (pandas)
 - Interactive visualization built in Grafana
 
+## Data
+The dataset included in this repository contains fully anonymized survey responses.
+No personally identifiable information (PII) is stored or shared.
+
+The data is provided solely for analytical and educational purposes.
+
+
 ## Notes
 This project is exploratory and intended for analytical and visualization purposes.
 
